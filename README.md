@@ -42,8 +42,8 @@ The goal is to support resource allocation decisions by uncovering when, where, 
 - **Python 3.9** · **Pandas** · **NumPy** · **Matplotlib** · **Seaborn**
 
 ## Dataset
-`crimes.csv` — 185,715 records, 12 columns  
-*(LAPD Open Data via DataCamp — modified)*
+`crimes_sample.csv` — 5,000-row sample for demonstration purposes.  
+Full dataset (185,715 rows) available at [LA Open Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
 
 ## How to Run
 ```bash
